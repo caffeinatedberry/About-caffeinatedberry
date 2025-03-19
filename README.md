@@ -6,4 +6,4 @@ I am a y1 computer science student
           
 a fun fact is that i skateboard
 
-changing at the same time
+changing at the same time.
