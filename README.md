@@ -2,4 +2,5 @@
 
 hello! I am sherry
 
-I am a computer science student
+I am a y1 computer science student
+
